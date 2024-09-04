@@ -12,6 +12,7 @@ def gerar_matrizes_de_permutacao(N : int) -> Tuple[np.ndarray, np.ndarray]:
 
     return P, Q
 
+
 def criar_alfabeto():
     alfabeto = {}
     letras = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz "
