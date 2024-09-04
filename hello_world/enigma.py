@@ -46,6 +46,7 @@ def encriptar_enigma(mensagem : str,
 
     return encrypted_message
         
+        
 
 def decriptar_enigma(mensagem_encriptada : str,
               P : np.ndarray,
